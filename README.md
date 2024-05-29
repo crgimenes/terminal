@@ -2,6 +2,7 @@
 
 ## Controle de processos
 
+```bash
 jobs
 bg %1
 fg %1
@@ -19,6 +20,8 @@ renice
 nice
 ionice
 at
+cron
+```
 
 ## Redirecionamento
 
